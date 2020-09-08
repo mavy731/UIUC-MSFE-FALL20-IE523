@@ -1,4 +1,4 @@
-# Assigenment 1
+# Assignment 1
 
 > IE523
 
