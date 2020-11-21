@@ -1,1 +1,1 @@
-Computing the General Solution to Ax = y 
+How much would you pay to play this card game? 
